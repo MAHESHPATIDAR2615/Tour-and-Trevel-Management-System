@@ -2,14 +2,32 @@
 
 This project is a tour booking application built using the MERN stack (MongoDB, Express, React, Node.js). The application allows users to register, log in, and book tours. It also includes features for searching tours, viewing tour details, and leaving reviews.
 
+## Table of Contents
+
+- [Introduction](#introduction)
+- [Demo](#demo)
+- [Features](#features)
+- [Project Structure](#project-structure)
+- [Installation](#installation)
+- [Usage](#usage)
+- [Technologies Used](#technologies-used)
+- [Contributing](#contributing)
+- [Acknowledgements](#acknowledgements)
+
+## Introduction
+
+The Tour Booking Application is designed to make it easy for users to find and book tours. Users can browse through a variety of tours, book their preferred tours, and leave reviews. The application also includes authentication to secure user data.
+
+## Demo
+
+You can view a live demo of the tour booking application [here](https://tour-and-trevel-management-system.onrender.com).
+
 ## Features
 
-- User Registration and Authentication
-- Search for Tours by Location, Distance, and Group Size
-- View Detailed Information about Tours
-- Book Tours
-- Leave Reviews for Tours
-- Admin Panel for Managing Tours and Users
+- User authentication and authorization.
+- Browse, book, and review tours.
+- Responsive design for mobile and desktop views.
+- Admin panel for managing tours and reviews.
 
 ## Technologies Used
 
