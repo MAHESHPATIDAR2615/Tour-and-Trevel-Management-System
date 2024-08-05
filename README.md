@@ -21,6 +21,8 @@ The Tour Booking Application is designed to make it easy for users to find and b
 ## Demo
 
 You can view a live demo of the tour booking application [here](https://tour-and-trevel-management-system.onrender.com).
+<img width="927" alt="image" src="https://github.com/user-attachments/assets/b8a75478-aafc-4852-a674-62fcb22c8801">
+
 
 
 ## Features
